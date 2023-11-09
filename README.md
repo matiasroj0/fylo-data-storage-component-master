@@ -4,7 +4,7 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://elegant-meringue-6caccb.netlify.app/
 
 ### Screenshot
 
