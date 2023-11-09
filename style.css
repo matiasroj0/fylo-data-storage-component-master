@@ -122,6 +122,10 @@ body {
     color: var(--pale-blue);
 }
 
+.span-strong:hover {
+    color: #d37d9b;
+}
+
 .storage-bar {
     background-color: var(--very-dark-blue);
     width: 100%;
